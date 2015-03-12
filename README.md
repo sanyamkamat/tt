@@ -1,1 +1,1 @@
-# Drupal site for table tennis tournament
+# MEAN site for table tennis tournament
